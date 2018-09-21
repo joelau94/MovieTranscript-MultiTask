@@ -40,7 +40,7 @@ b. possible mechanisms:
   - Average
   - Last RNN state
   - CNN (multi-channel max-pooling) [Convolutional Neural Networks for Sentence Classification](http://www.aclweb.org/anthology/D14-1181)
-  - Attention (query-key-value: query-vector per task) [End-To-End Memory Networks](https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
+  - Attention (query-key-value: query-vector per task) [End-To-End Memory Networks](https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf); [Attention-over-Attention Neural Networks for Reading Comprehension](http://aclweb.org/anthology/P17-1055)
 
 ## 4. Multi-modality (time permitting)
 
